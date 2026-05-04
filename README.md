@@ -23,7 +23,7 @@ Les images sont classées selon l'arborescence suivante :
 ## 🛠️ Installation et Utilisation
 
 ### 1. Préparation dans PowerShell ISE
-1.  Ouvrez **PowerShell ISE** (Menu Démarrer > tapez "ISE").
+1.  Ouvrez **PowerShell ISE**
 2.  Copiez le code du script et collez-le dans l'éditeur.
 3.  **Important :** Modifiez les deux premières lignes de la section `# --- Configuration ---` pour qu'elles correspondent à vos chemins :
     *   `$sourceFile` : Le chemin complet de votre image (ex: `C:\temp\Fonds.png`).
